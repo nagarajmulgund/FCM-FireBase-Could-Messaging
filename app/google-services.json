@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1040798133052",
+    "firebase_url": "https://fcmandroid-2b119.firebaseio.com",
+    "project_id": "fcmandroid-2b119",
+    "storage_bucket": "fcmandroid-2b119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040798133052:android:3acf351495a61a42",
+        "android_client_info": {
+          "package_name": "fcm.android.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040798133052-o2ssrgqoofdhp7p9csbf1me5u7djom1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_kR9pYrXQVlc1ffqIJBgt10pMvCh_zjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
